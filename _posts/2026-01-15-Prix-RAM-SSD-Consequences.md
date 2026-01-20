@@ -13,13 +13,13 @@ tags: [Prix,SSD,RAM,Mémoire,IA]
 
 Un petit tour sur ce site qui historise les prix du géant de la vente en ligne Amazon montre à quel point les prix ont augmentés : de + 300 % en l’espace de quelques mois. Oui, vous avez bien lu, il n’y a pas d’erreur de frappe : 300 % d’augmentation en l’espace de quelques mois, comme l’atteste ce graphique.
 
-![Historique prix kit Corsair 2*8Go]({{ site.url }}/assets/2026-01-14-Prix-RAM-SSD-Consequences/1.png)
+![Historique prix kit Corsair 2*8Go]({{ site.url }}/assets/2026-01-15-Prix-RAM-SSD-Consequences/1.png)
 
 Au 27 décembre 2024, le prix pour ce [kit Corsair 2*8Go](https://keepa.com/#!product/4-B07RS1G6XW ) en DDR4 était à 33€. Au 27 décembre 2025, il est passé à 99€.
 
 Les mêmes augmentations se répercutent sur la DDR5, mais sont plus modérées sur les SSD comme l’atteste cet autre graphique.
 
-![Historique prix SSD Crucial de 1To au format M.2]({{ site.url }}/assets/2026-01-14-Prix-RAM-SSD-Consequences/2.png)
+![Historique prix SSD Crucial de 1To au format M.2]({{ site.url }}/assets/2026-01-15-Prix-RAM-SSD-Consequences/2.png)
 
 Au 27 décembre 2024, le prix pour ce [SSD Crucial de 1To au format M.2](https://keepa.com/#!product/4-B0DC8VPSHV)était de 83€. Au 27 décembre 2025, il est passé à 110 €, soit une augmentation de 32 %.
 
